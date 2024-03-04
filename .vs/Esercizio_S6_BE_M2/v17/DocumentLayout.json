@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 1\\Esercizio_finale\\Esercizio_S6_BE_M2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 1\\esercizio_finale\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 1\\esercizio_finale\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 1\\Esercizio_finale\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 1\\Esercizio_finale\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAwwN8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:32:21.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 1\\Esercizio_finale\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 1\\Esercizio_finale\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "RelativeToolTip": "Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:08:07.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
