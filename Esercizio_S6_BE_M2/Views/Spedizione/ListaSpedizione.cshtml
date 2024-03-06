@@ -1,0 +1,41 @@
+﻿﻿@model IEnumerable<Esercizio_S6_BE_M2.Models.Spedizione>
+
+@{
+    ViewBag.Title = "ListaSpedizione";
+}
+
+<div>
+    <div class="text-right mt-3 mb-3">
+        <a href="@Url.Action("ListaCliente", "Cliente")" class="btn btn-primary">Aggiungi Spedizione</a>
+    </div>
+    <h2 class="text-center">Lista delle spedizioni</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>CodiceSpedizione</th>
+                <th>ClienteId</th>
+                <th>Mittente</th>
+                <th>Indirizzo Destinazione</th>
+                <th>Citta Destinazione</th>
+                <th>Data Spedizione</th>
+                <th>Azioni</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var spedizione in Model)
+            {
+                <tr>
+                    <td>@spedizione.CodiceSpedizione</td>
+                    <td>@spedizione.ClienteId</td>
+                    <td>@spedizione.Mittente</td>
+                    <td>@spedizione.IndirizzoDestinazione</td>
+                    <td>@spedizione.CittaDestinazione</td>
+                    <td>@spedizione.DataSpedizione</td>
+                    <td class="d-flex justify-content-evenly">
+                        @Html.ActionLink("Dettagli", "DettaglioSpedizione", "Spedizione", new { Id = spedizione.Id }, new { @class = "btn btn-success btn-sm" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,96 @@
+﻿@model IEnumerable<Esercizio_S6_BE_M2.Models.DettaglioSpedizione>
+
+@{
+    ViewBag.Title = "DettaglioSpedizione";
+}
+
+<h2 class="text-center">Dettaglio Spedizione</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>ClienteId</th>
+            <th>Mittente</th>
+            <th>NomeDestinatario</th>
+            <th>IndirizzoDestinazione</th>
+            <th>CittaDestinazione</th>
+            <th>Costo</th>
+            <th>PesoKg</th>
+            <th>DataSpedizione</th>
+            <th>DataStimataConsegna</th>
+            <th>CodiceSpedizione</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dettaglio in Model)
+        {
+            <tr>
+                <td>@dettaglio.Spedizione.Id</td>
+                <td>@dettaglio.Spedizione.ClienteId</td>
+                <td>@dettaglio.Spedizione.Mittente</td>
+                <td>@dettaglio.Spedizione.NomeDestinatario</td>
+                <td>@dettaglio.Spedizione.IndirizzoDestinazione</td>
+                <td>@dettaglio.Spedizione.CittaDestinazione</td>
+                <td>@dettaglio.Spedizione.Costo</td>
+                <td>@dettaglio.Spedizione.PesoKg</td>
+                <td>@dettaglio.Spedizione.DataSpedizione</td>
+                <td>@dettaglio.Spedizione.DataStimataConsegna</td>
+                <td>@dettaglio.Spedizione.CodiceSpedizione</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="text-center mt-3 mb-3">
+    @foreach (var dettaglio in Model)
+    {
+        <div class="d-flex justify-content-center">
+            <div style="margin-right: 10px">
+                @Html.ActionLink("Modifica", "ModificaSpedizione", "Spedizione", new { Id = dettaglio.Spedizione.Id }, new { @class = "btn btn-warning btn-sm" })
+            </div>
+            <div>
+                @Html.ActionLink("Elimina", "EliminaSpedizione", "Spedizione", new { Id = dettaglio.Spedizione.Id }, new { @class = "btn btn-danger btn-sm" })
+            </div>
+        </div>
+    }
+</div>
+
+
+<h2 class="text-center">Stato Spedizione</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>SpedizioneId</th>
+            <th>Aggiornamento</th>
+            <th>Luogo</th>
+            <th>Descrizione</th>
+            <th>DataOraAggiornamento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dettaglio in Model)
+        {
+            if (dettaglio.Stato != null)
+            {
+                foreach (var stato in dettaglio.Stato)
+                {
+                    <tr>
+                        <td>@stato.Id</td>
+                        <td>@stato.SpedizioneId</td>
+                        <td>@stato.Aggiornamento</td>
+                        <td>@stato.Luogo</td>
+                        <td>@stato.Descrizione</td>
+                        <td>@stato.DataOraAggiornamento</td>
+                    </tr>
+                }
+            }
+        }
+    </tbody>
+</table>
+
+<div class="text-center mt-3 mb-3">
+    @foreach (var dettaglio in Model)
+    {
+        @Html.ActionLink("Aggiungi Stato", "AggiungiStato", "Spedizione", new { SpedizioneId = dettaglio.Spedizione.Id }, new { @class = "btn btn-success btn-sm" })
+    }
+</div>

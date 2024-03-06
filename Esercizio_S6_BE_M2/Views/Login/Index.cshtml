@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <section class="row">
+        <h1 id="title">Delivery</h1>
+        <div class="d-flex flex-column row align-items-end m-0 p-0" style="position: relative;">
+            <img src="~/Content/imgs/sfondo.jpg" class="m-0 p-0" />
+            <div class="bg-light w-25 position-absolute d-flex flex-column justify-content-center rounded" style="left: 4em; bottom: 4em; height: 40%">
+                <h4>Cerca Spedizione</h4>
+                <div class="d-flex align-items-center">
+                    <form class="d-flex mb-2 mt-1" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Inserisci il numero di spedizione" aria-label="Search" style="width: 280px">
+                        <button class="btn btn-outline-danger" type="submit">Cerca</button>
+                    </form>
+                </div>
+                <a href="@Url.Action("CercaSpedizione", "Spedizione")" class="text-decoration-none text-black">Ricerca Avanzata ></a>
+            </div>
+        </div>
+    </section>
+    <div class="row d-flex justify-content-between mb-5">
+        <section class="col-md-3 bg-primary text-light rounded">
+            <h2>Mittente</h2>
+            <p class="h-25">Accedi all'Area Clienti per gestire autonomamente le tue spedizioni</p>
+            <p>
+                <a class="btn btn-outline-dark text-light">Area Clienti &raquo;</a>
+            </p>
+        </section>
+        <section class="col-md-3 bg-info text-light rounded">
+            <h2 id="gettingStartedTitle">Destinatario</h2>
+            <p class="h-25">
+                Gestisci in autonomia e con flessibilità le tue spedizioni
+            </p>
+            <p>
+                <a class="btn btn-outline-dark text-light">Destinatario &raquo;</a>
+            </p>
+        </section>
+        <section class="col-md-3 bg-danger rounded">
+            <h2>Logistica</h2>
+            <p>Gestisci il tuo stock di prodotti nel nostro magazzino</p>
+            <p>
+                <a class="btn btn-outline-dark">Logistica &raquo;</a>
+            </p>
+        </section>
+    </div>
+</main>
