@@ -16,7 +16,7 @@
                 <div class="d-flex">
                     @if (User.IsInRole("Admin"))
                     {
-                        @Html.ActionLink("Cerca Spedizioni", "CercaSpedizione", "Spedizione", new { area = "" }, new { @class = "nav-link mx-3" });
+                        @Html.ActionLink("Cerca Spedizioni", "CercaSpedizione", "Spedizione", new { area = "" }, new { @class = "nav-link mx-3 " });
                         @Html.ActionLink("Gestione Clienti", "ListaCliente", "Cliente", new { area = "" }, new { @class = "nav-link mx-3" });
                         @Html.ActionLink("Gestione Spedizione", "ListaSpedizione", "Spedizione", new { area = "" }, new { @class = "nav-link mx-3" });
 
