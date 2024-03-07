@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\models\\spedizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\models\\spedizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\models\\spedizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\listaspedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\views\\cliente\\listacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\cliente\\listacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\cliente\\listacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Models\\Cliente.cs",
               "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Cliente.cs",
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Models\\Cliente.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T14:19:39.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Spedizione.cs",
               "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
               "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T14:19:37.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T14:19:37.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SpedizioniController.cs",
               "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\SpedizioniController.cs",
               "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Controllers\\SpedizioniController.cs",
@@ -84,18 +83,17 @@
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\SpedizioniController.cs",
               "ViewState": "AQIAABwBAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T14:19:20.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T14:19:20.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAMsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T14:19:08.423Z",
               "EditorCaption": ""
@@ -110,8 +108,7 @@
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAF8AAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T14:19:01.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T14:19:01.406Z"
             },
             {
               "$type": "Document",
@@ -123,8 +120,7 @@
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T14:12:03.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T14:12:03.797Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\ListaSpedizione.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:46.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T15:30:46.701Z"
             }
           ]
         }
