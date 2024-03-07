@@ -6,21 +6,16 @@
 
 @using (Html.BeginForm())
 {
-    <div class="card" style="border-radius: 1rem;">
+    <div class="card" style="border-radius: 1rem; border: 1px solid blue">
         <div class="row g-0">
-            <div class="col-md-6 col-lg-5 d-none d-md-block">
-                <img src="~/Content/imgs/login.jpg" alt="login form" class="img-fluid" />
-            </div>
-            <div class="col-md-6 col-lg-7" style="border-left: 10px solid blue">
+            <div class="col-md-6 col-lg-7" style="border-right: 10px solid blue">
                 <div class="card-body p-4 p-lg-5 text-black">
-
                     <div class="d-flex align-items-center mb-3 pb-1">
                         <div class="d-flex flex-column">
                             <span class="h1 fw-bold mb-0">Delivery</span>
                             <span class="h3 text-primary fw-bold mb-0">Registrati</span>
                         </div>
                     </div>
-
                     <h5 class="fw-normal mb-3" style="letter-spacing: 1px;">Crea un nuovo account</h5>
 
                     <div id="inputlogin" class="form-outline mb-4">
@@ -44,18 +39,15 @@
                         @Html.PasswordFor(model => model.Password, new { @class = "form-control form-control-lg", placeholder = "Password" })
                         @Html.ValidationMessageFor(model => model.Password, "", new { @style = "color: red" })
                     </div>
-
                     @if (ViewBag.AuthError != null)
                     {
                         <div class="alert alert-danger">
                             @ViewBag.AuthError
                         </div>
                     }
-
-                    <div class="pt-1 mb-4 d-flex align-items-center">
+                    <div class="pt-1 mb-5 d-flex align-items-center">
                         <input type="submit" value="Register" class="btn btn-primary" />
                     </div>
-
                     <a class="small text-muted" href="">Password dimenticata?</a>
                     <p class="mb-5 pb-lg-2" style="color: #393f81;">
                         Hai già un account?
@@ -63,6 +55,9 @@
                     </p>
                     <br />
                 </div>
+            </div>
+            <div class="col-md-6 col-lg-5 d-none d-md-block">
+                <img src="~/Content/imgs/login.jpg" alt="login form" class="img-fluid mt-2" />
             </div>
         </div>
     </div>

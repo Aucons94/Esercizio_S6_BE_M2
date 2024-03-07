@@ -3,64 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\models\\spedizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\models\\spedizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\spedizionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\cliente\\aggiungicliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\cliente\\aggiungicliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\cliente\\modificacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\cliente\\modificacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\cliente\\listacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\cliente\\listacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\spedizione\\modificastato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\modificastato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\spedizione\\modificaspedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\modificaspedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\spedizione\\listaspedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\listaspedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\spedizione\\dettagliospedizionecliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\dettagliospedizionecliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\spedizione\\dettagliospedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\dettagliospedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\spedizione\\aggiungistato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\aggiungistato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\views\\spedizione\\aggiungispedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\spedizione\\aggiungispedizione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\models\\spedizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\models\\spedizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\esercizio_s6_be_m2\\models\\siterole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\models\\siterole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 2\\settimana 2\\pratica\\esercizio_s6_be_m2\\esercizio_s6_be_m2\\views\\cliente\\listacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{095065F9-2D2A-466E-81C1-4EB9D60FDB25}|Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2.csproj|solutionrelative:esercizio_s6_be_m2\\views\\cliente\\listacliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,46 +50,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AggiungiCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\AggiungiCliente.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Cliente\\AggiungiCliente.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\AggiungiCliente.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Cliente\\AggiungiCliente.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:56.693Z",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "RelativeToolTip": "Esercizio_S6_BE_M2\\Models\\Cliente.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:19:39.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Spedizione.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
+              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
+              "RelativeToolTip": "Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:19:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SpedizioniController.cs",
               "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\SpedizioniController.cs",
               "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Controllers\\SpedizioniController.cs",
               "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\SpedizioniController.cs",
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\SpedizioniController.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "ViewState": "AQIAABwBAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:00:12.307Z",
+              "WhenOpened": "2024-03-07T14:19:20.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Web.config",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Web.config",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Web.config",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-06T14:53:17.703Z",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:19:08.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:19:01.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
+              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
+              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T14:12:03.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ListaSpedizione.cshtml",
               "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\ListaSpedizione.cshtml",
               "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Spedizione\\ListaSpedizione.cshtml",
@@ -129,140 +136,8 @@
               "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\ListaSpedizione.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:46.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListaCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Cliente\\ListaCliente.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:31:01.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ModificaCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\ModificaCliente.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Cliente\\ModificaCliente.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Cliente\\ModificaCliente.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Cliente\\ModificaCliente.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:31:02.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwBYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:39:59.29Z",
+              "WhenOpened": "2024-03-06T15:30:46.701Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DettaglioSpedizioneCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizioneCliente.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizioneCliente.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizioneCliente.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizioneCliente.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:47.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ModificaSpedizione.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaSpedizione.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaSpedizione.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaSpedizione.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaSpedizione.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:52.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ModificaStato.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaStato.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaStato.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaStato.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\ModificaStato.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:55.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DettaglioSpedizione.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizione.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizione.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizione.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\DettaglioSpedizione.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:44.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AggiungiStato.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiStato.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiStato.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiStato.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiStato.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:43.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AggiungiSpedizione.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiSpedizione.cshtml",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiSpedizione.cshtml",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiSpedizione.cshtml",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Views\\Spedizione\\AggiungiSpedizione.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T15:30:39.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Spedizione.cs",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Models\\Spedizione.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:39:13.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SiteRole.cs",
-              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\SiteRole.cs",
-              "RelativeDocumentMoniker": "Esercizio_S6_BE_M2\\Models\\SiteRole.cs",
-              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 2\\Settimana 2\\Pratica\\Esercizio_S6_BE_M2\\Esercizio_S6_BE_M2\\Models\\SiteRole.cs",
-              "RelativeToolTip": "Esercizio_S6_BE_M2\\Models\\SiteRole.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwFQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:39:02.567Z"
             }
           ]
         }

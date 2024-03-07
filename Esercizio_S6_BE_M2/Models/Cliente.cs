@@ -25,7 +25,7 @@ namespace Esercizio_S6_BE_M2.Models
 
         public static string GetConnectionString()
         {
-            return ConfigurationManager.ConnectionStrings["DB_ConnString"].ConnectionString;
+            return ConfigurationManager.ConnectionStrings["Spedizioni"].ConnectionString;
         }
 
         public static List<Cliente> ListaClienti()

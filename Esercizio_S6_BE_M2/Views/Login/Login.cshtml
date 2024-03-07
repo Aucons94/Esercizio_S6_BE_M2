@@ -6,14 +6,10 @@
 
 @using (Html.BeginForm())
 {
-    <div class="card" style="border-radius: 1rem;">
+    <div class="card" style="border-radius: 1rem; border: 1px solid blue">
         <div class="row g-0">
-            <div class="col-md-6 col-lg-5 d-none d-md-block">
-                <img src="~/Content/imgs/login.jpg" alt="login form" class="img-fluid" />
-            </div>
-            <div class="col-md-6 col-lg-7" style="border-left: 10px solid blue">
+            <div class="col-md-6 col-lg-7" style="border-right: 10px solid blue">
                 <div class="card-body p-4 p-lg-5 text-black">
-
                     <div class="d-flex align-items-center mb-3 pb-1">
                         <div class="d-flex flex-column">
                             <span class="h1 fw-bold mb-0">Delivery</span>
@@ -38,19 +34,19 @@
                             @ViewBag.AuthError
                         </div>
                     }
-
-                    <div class="pt-1 mb-4 d-flex align-items-center">
+                    <div class="pt-1 mb-5 d-flex align-items-center">
                         <input type="submit" value="Login" class="btn btn-primary" />
                     </div>
-
                     <a class="small text-muted" href="">Password dimenticata?</a>
                     <p class="mb-5 pb-lg-2" style="color: #393f81;">
                         Non hai un account?
                         @Html.ActionLink("Registrati qui", "Register", "Login", null, new { style = "color: #393f81;" })
                     </p>
-                    <a class="small text-muted">Termini di utilizzo</a>
                     <br />
                 </div>
+            </div>
+            <div class="col-md-6 col-lg-5 d-none d-md-block">
+                <img src="~/Content/imgs/login.jpg" alt="login form" class="img-fluid mt-2" />
             </div>
         </div>
     </div>
